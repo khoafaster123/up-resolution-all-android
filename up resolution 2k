@@ -1,0 +1,20 @@
+-------------------------
+|                       |
+|  DEV:KhoaGame         |
+|  Youtube:KhoaGame     |
+|                       |
+|                       |
+-------------------------
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo "up your dislay phone resolution 2k"
+echo "đang tăng độ phâng giải màn hình của bạn lên 2k"
+sleep 5
+wm size 1080x2048
+sleep 5
+echo "done"
+echo "đã thành công "
+sleep 2
